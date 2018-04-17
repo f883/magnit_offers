@@ -1,3 +1,0 @@
-C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\simpleTest\bin\Debug\simpleTest.exe.config
-C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\simpleTest\obj\Debug\simpleTest.exe
-C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\simpleTest\obj\Debug\simpleTest.pdb

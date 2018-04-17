@@ -1,6 +1,0 @@
-C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\threadingTest\bin\Release\threadingTest.exe.config
-C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\threadingTest\bin\Release\threadingTest.exe
-C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\threadingTest\bin\Release\threadingTest.pdb
-C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\threadingTest\obj\Release\threadingTest.csprojResolveAssemblyReference.cache
-C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\threadingTest\obj\Release\threadingTest.exe
-C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\threadingTest\obj\Release\threadingTest.pdb
