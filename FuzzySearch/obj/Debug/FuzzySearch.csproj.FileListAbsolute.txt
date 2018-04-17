@@ -1,0 +1,18 @@
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\FuzzySearch\bin\Debug\FuzzySearch.exe.config
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\FuzzySearch\bin\Debug\FuzzySearch.exe
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\FuzzySearch\bin\Debug\FuzzySearch.pdb
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\FuzzySearch\obj\Debug\FuzzySearch.csprojResolveAssemblyReference.cache
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\FuzzySearch\obj\Debug\FuzzySearch.exe
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\FuzzySearch\obj\Debug\FuzzySearch.pdb
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\FuzzySearch\bin\Debug\FuzzySearch.exe.config
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\FuzzySearch\obj\Debug\FuzzySearch.exe
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\FuzzySearch\obj\Debug\FuzzySearch.pdb
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\FuzzySearch\bin\Debug\FuzzySearch.exe
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\FuzzySearch\bin\Debug\FuzzySearch.pdb
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\FuzzySearch\obj\Debug\FuzzySearch.csprojResolveAssemblyReference.cache
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\FuzzySearch\bin\Debug\FuzzySearch.exe.config
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\FuzzySearch\obj\Debug\FuzzySearch.exe
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\FuzzySearch\obj\Debug\FuzzySearch.pdb
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\FuzzySearch\bin\Debug\FuzzySearch.exe
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\FuzzySearch\bin\Debug\FuzzySearch.pdb
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\FuzzySearch\obj\Debug\FuzzySearch.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\duck\MEGA\tiny_files\study\курсовая_работа_1\application\GUI_main_WPF\GUI_main_WPF\bin\Release\GUI_main_WPF.exe.config
+C:\Users\duck\MEGA\tiny_files\study\курсовая_работа_1\application\GUI_main_WPF\GUI_main_WPF\bin\Release\GUI_main_WPF.exe
+C:\Users\duck\MEGA\tiny_files\study\курсовая_работа_1\application\GUI_main_WPF\GUI_main_WPF\bin\Release\GUI_main_WPF.pdb
+C:\Users\duck\MEGA\tiny_files\study\курсовая_работа_1\application\GUI_main_WPF\GUI_main_WPF\obj\Release\MainWindow.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая_работа_1\application\GUI_main_WPF\GUI_main_WPF\obj\Release\App.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая_работа_1\application\GUI_main_WPF\GUI_main_WPF\obj\Release\GUI_main_WPF_MarkupCompile.cache
+C:\Users\duck\MEGA\tiny_files\study\курсовая_работа_1\application\GUI_main_WPF\GUI_main_WPF\obj\Release\GUI_main_WPF_MarkupCompile.lref
+C:\Users\duck\MEGA\tiny_files\study\курсовая_работа_1\application\GUI_main_WPF\GUI_main_WPF\obj\Release\MainWindow.baml
+C:\Users\duck\MEGA\tiny_files\study\курсовая_работа_1\application\GUI_main_WPF\GUI_main_WPF\obj\Release\GUI_main_WPF.g.resources
+C:\Users\duck\MEGA\tiny_files\study\курсовая_работа_1\application\GUI_main_WPF\GUI_main_WPF\obj\Release\GUI_main_WPF.Properties.Resources.resources
+C:\Users\duck\MEGA\tiny_files\study\курсовая_работа_1\application\GUI_main_WPF\GUI_main_WPF\obj\Release\GUI_main_WPF.csproj.GenerateResource.Cache
+C:\Users\duck\MEGA\tiny_files\study\курсовая_работа_1\application\GUI_main_WPF\GUI_main_WPF\obj\Release\GUI_main_WPF.exe
+C:\Users\duck\MEGA\tiny_files\study\курсовая_работа_1\application\GUI_main_WPF\GUI_main_WPF\obj\Release\GUI_main_WPF.pdb

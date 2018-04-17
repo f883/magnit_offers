@@ -1,0 +1,9 @@
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GetAllCities\bin\Debug\GetAllCities.exe.config
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GetAllCities\bin\Debug\GetAllCities.exe
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GetAllCities\bin\Debug\GetAllCities.pdb
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GetAllCities\bin\Debug\HtmlAgilityPack.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GetAllCities\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GetAllCities\bin\Debug\HtmlAgilityPack.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GetAllCities\obj\Debug\GetAllCities.csprojResolveAssemblyReference.cache
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GetAllCities\obj\Debug\GetAllCities.exe
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GetAllCities\obj\Debug\GetAllCities.pdb

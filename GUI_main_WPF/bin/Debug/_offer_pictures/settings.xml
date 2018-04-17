@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CityName>Абдулино</CityName>
+  <CityID>527</CityID>
+  <RegionName>Республика Башкортостан</RegionName>
+  <RegionID>34</RegionID>
+  <CityInListIndex>2</CityInListIndex>
+  <RegionInListIndex>33</RegionInListIndex>
+</Settings>

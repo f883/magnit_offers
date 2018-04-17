@@ -1,0 +1,200 @@
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\GUI_main_WPF.exe.config
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\GUI_main_WPF.exe
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\GUI_main_WPF.pdb
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\HtmlAgilityPack.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.Modules.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.SQLite.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.Wpf.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Dynamic.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Scripting.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Scripting.Metadata.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\HtmlAgilityPack.pdb
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\HtmlAgilityPack.xml
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.xml
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.Modules.xml
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.SQLite.xml
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.Wpf.xml
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Dynamic.xml
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Scripting.xml
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Scripting.Metadata.xml
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\MainWindow.g.cs
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\App.g.cs
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF_MarkupCompile.cache
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF_MarkupCompile.lref
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\MainWindow.baml
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF.g.resources
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF.Properties.Resources.resources
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\main_program.csproj.GenerateResource.Cache
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF.exe
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF.pdb
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\loadingWindow.g.cs
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\loadingWindow.baml
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\main_program.csprojResolveAssemblyReference.cache
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\GUI_main_WPF.exe.config
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF.exe
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF.pdb
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\GUI_main_WPF.exe
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\GUI_main_WPF.pdb
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\HtmlAgilityPack.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.Modules.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.SQLite.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.Wpf.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Scripting.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\HtmlAgilityPack.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.Modules.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.SQLite.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.Wpf.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Scripting.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\main_program.csprojResolveAssemblyReference.cache
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\loadingWindow.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\App.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF_MarkupCompile.cache
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF_MarkupCompile.lref
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\MainWindow.baml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\loadingWindow.baml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF.g.resources
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF.Properties.Resources.resources
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\main_program.csproj.GenerateResource.Cache
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\ChooseCityWindow.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\ChooseCityWindow.baml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\SearchWindow.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\SearchWindow.baml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\FoundResultsWindow.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\FoundResultsWindow.baml
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\ChooseCityWindow.g.cs
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\FoundResultsWindow.g.cs
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\SearchWindow.g.cs
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\ChooseCityWindow.baml
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\FoundResultsWindow.baml
+\\Mac\Home\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\SearchWindow.baml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\GUI_main_WPF.exe.config
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\GUI_main_WPF.exe
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\GUI_main_WPF.pdb
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\main_program.csprojResolveAssemblyReference.cache
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\ChooseCityWindow.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\FoundResultsWindow.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\LoadingWindow.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\SearchWindow.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\App.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\GUI_main_WPF_MarkupCompile.cache
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\GUI_main_WPF_MarkupCompile.lref
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\GUI_main_WPF.exe
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\GUI_main_WPF.pdb
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\HtmlAgilityPack.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\IronPython.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\IronPython.Modules.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\IronPython.SQLite.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\IronPython.Wpf.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\Microsoft.Scripting.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\HtmlAgilityPack.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\IronPython.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\IronPython.Modules.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\IronPython.SQLite.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\IronPython.Wpf.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\Microsoft.Scripting.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\ChooseCityWindow.baml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\FoundResultsWindow.baml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\MainWindow.baml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\LoadingWindow.baml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\SearchWindow.baml
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\GUI_main_WPF.g.resources
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\GUI_main_WPF.Properties.Resources.resources
+C:\Users\duck\MEGA\tiny_files\study\курсовая 1 курс\application\GUI_main_WPF - многопоточность\GUI_main_WPF\obj\Debug\main_program.csproj.GenerateResource.Cache
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\GUI_main_WPF.exe.config
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF.exe
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF.pdb
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\GUI_main_WPF.exe
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\GUI_main_WPF.pdb
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\HtmlAgilityPack.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.Modules.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.SQLite.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.Wpf.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Scripting.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\HtmlAgilityPack.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.Modules.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.SQLite.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.Wpf.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Scripting.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\main_program.csprojResolveAssemblyReference.cache
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\ChooseCityWindow.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\FoundResultsWindow.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\LoadingWindow.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\SearchWindow.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\App.g.cs
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF_MarkupCompile.cache
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF_MarkupCompile.lref
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\ChooseCityWindow.baml
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\FoundResultsWindow.baml
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\MainWindow.baml
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\LoadingWindow.baml
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\SearchWindow.baml
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF.g.resources
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF.Properties.Resources.resources
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\main_program.csproj.GenerateResource.Cache
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\GUI_main_WPF.exe.config
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF.exe
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF.pdb
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\GUI_main_WPF.exe
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\GUI_main_WPF.pdb
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\HtmlAgilityPack.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.Modules.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.SQLite.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.Wpf.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Dynamic.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Scripting.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Scripting.Metadata.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\HtmlAgilityPack.pdb
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\HtmlAgilityPack.xml
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.xml
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.Modules.xml
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.SQLite.xml
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\IronPython.Wpf.xml
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Dynamic.xml
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Scripting.xml
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\bin\Debug\Microsoft.Scripting.Metadata.xml
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\main_program.csprojResolveAssemblyReference.cache
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\ChooseCityWindow.g.cs
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\FoundResultsWindow.g.cs
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\MainWindow.g.cs
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\LoadingWindow.g.cs
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\SearchWindow.g.cs
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\App.g.cs
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF_MarkupCompile.cache
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF_MarkupCompile.lref
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\ChooseCityWindow.baml
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\FoundResultsWindow.baml
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\MainWindow.baml
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\LoadingWindow.baml
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\SearchWindow.baml
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF.g.resources
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\GUI_main_WPF.Properties.Resources.resources
+\\Mac\Home\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\GUI_main_WPF\obj\Debug\main_program.csproj.GenerateResource.Cache

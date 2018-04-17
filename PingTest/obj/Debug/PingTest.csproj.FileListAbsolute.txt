@@ -1,0 +1,6 @@
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\PingTest\bin\Debug\PingTest.exe.config
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\PingTest\bin\Debug\PingTest.exe
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\PingTest\bin\Debug\PingTest.pdb
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\PingTest\obj\Debug\PingTest.csprojResolveAssemblyReference.cache
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\PingTest\obj\Debug\PingTest.exe
+C:\Users\duck\MEGA\tiny_files\study\курсовая_1_курс\application\GUI_main_WPF\PingTest\obj\Debug\PingTest.pdb

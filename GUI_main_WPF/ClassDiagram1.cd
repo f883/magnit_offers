@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GUI_main_WPF.App" Collapsed="true">
+    <Position X="11" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_main_WPF.ChooseCityWindow" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>ChooseCityWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GUI_main_WPF.Constant">
+    <Position X="5.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABABAAAAAAAAAAAABAAEAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConstantClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_main_WPF.FoundResultsWindow" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FoundResultsWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GUI_main_WPF.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="12" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAIAAIAAAAQAAAAAQAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GUI_main_WPF.Offer">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAABAAAAAAAAAAAAAAQAEAACAAAAAAAAAAAA=</HashCode>
+      <FileName>OfferClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_main_WPF.City">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RegionClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_main_WPF.Region">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>RegionClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_main_WPF.SearchWindow" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAAAAQAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SearchWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GUI_main_WPF.Settings">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgBIAgAQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SettingClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_main_WPF.Properties.Resources" Collapsed="true">
+    <Position X="12.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_main_WPF.Properties.Settings" Collapsed="true">
+    <Position X="9.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_main_WPF.Files">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAASAAAAAAAgAABAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>FilesClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_main_WPF.DownloadOffer">
+    <Position X="2.25" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAIQAAAAAIAIAAAAAAAMAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>DownloadOfferClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI_main_WPF.LoadingWindow" BaseTypeListCollapsed="true">
+    <Position X="12" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoadingWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GUI_main_WPF.Search">
+    <Position X="4.25" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAYAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>SearchClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
